@@ -16,3 +16,6 @@ Cài đặt APK → Nhấn giữ màn hình chính → Chọn Widget → Thêm "
  
  
 💡 Dữ liệu cập nhật liên tục từ nguồn công khai, hỗ trợ cả Vùng 1 và Vùng 2 — chính xác, nhanh chóng, hoàn toàn miễn phí!
+
+tải tại đây 
+https://github.com/dinoking-iot/Gia-xang-widget-Petrolimex/releases/tag/Giaxang
