@@ -1,21 +1,26 @@
-⛽ Widget Giá Xăng Petrolimex — Luôn cập nhật ngay trên màn hình chính!
- 
-Bạn có bao giờ muốn biết giá xăng mới nhất mà không cần mở trình duyệt hay lướt bài đăng đâu đâu? ✅ Đây chính là giải pháp dành cho bạn!
- 
-✨ Điểm nổi bật:
-▫️ Widget trong suốt trên màn hình chính — hiện đại, gọn gàng, không che khuất hình nền
-▫️ Hiển thị giá Petrolimex theo từng vùng + cả PVOIL khi mở app chi tiết
-▫️ Tùy chỉnh hoàn toàn: độ trong suốt nền, 2 chế độ sáng/tối, cỡ chữ to nhỏ theo ý bạn
-▫️ Tự động cập nhật mỗi 15 phút / 1 giờ / 3 giờ — hoặc chỉ khi bạn muốn
-▫️ Nhấn một cái để làm mới ngay, xem bảng giá đầy đủ trong tích tắc
-▫️ Nhẹ nhàng, hiệu suất cao — lõi xử lý bằng Rust, tiết kiệm pin tối ưu
- 
-📱 Cách dùng cực đơn giản:
-Cài đặt APK → Nhấn giữ màn hình chính → Chọn Widget → Thêm "Giá Xăng Petrolimex" → Tùy chỉnh giao diện theo gu của bạn → Xong! Giá xăng luôn ở đó, chỉ một cái nhìn là biết ngay 💛
- 
- 
- 
-💡 Dữ liệu cập nhật liên tục từ nguồn công khai, hỗ trợ cả Vùng 1 và Vùng 2 — chính xác, nhanh chóng, hoàn toàn miễn phí!
+# ⛽ Widget Giá Xăng Petrolimex
+**Luôn cập nhật giá xăng dầu mới nhất ngay trên màn hình chính Android!**
 
-tải tại đây 
-https://github.com/dinoking-iot/Gia-xang-widget-Petrolimex/releases/tag/Giaxang
+Bạn có bao giờ muốn biết giá xăng mới nhất mà không cần mở trình duyệt hay lướt tìm bài đăng? Đây chính là giải pháp gọn nhẹ dành cho bạn.
+
+[⬇️ TẢI NGAY BẢN CÀI ĐẶT (APK)](https://github.com)
+
+---
+
+### ✨ Điểm nổi bật
+* **Giao diện trong suốt:** Hiện đại, gọn gàng, không che khuất hình nền điện thoại.
+* **Đa dạng nguồn giá:** Hiển thị giá Petrolimex theo từng vùng (Vùng 1 & Vùng 2) và hỗ trợ xem thêm giá PVOIL khi mở ứng dụng.
+* **Tùy chỉnh linh hoạt:** Tự do điều chỉnh độ trong suốt nền, 2 chế độ Sáng/Tối, và cỡ chữ to nhỏ theo ý thích.
+* **Tự động cập nhật:** Tùy chọn chu kỳ làm mới mỗi 15 phút, 1 giờ, 3 giờ hoặc chạm để làm mới tức thì.
+* **Siêu nhẹ & Tiết kiệm pin:** Lõi xử lý được viết bằng **Rust**, đảm bảo hiệu suất cao và không gây hao pin.
+
+---
+
+### 📱 Hướng dẫn sử dụng
+1. **Tải và cài đặt** file APK từ mục [Releases](https://github.com).
+2. **Nhấn giữ** vào vùng trống trên màn hình chính điện thoại Android.
+3. Chọn mục **Widget** (Tiện ích) $\rightarrow$ Tìm và thêm **"Giá Xăng Petrolimex"**.
+4. **Tùy chỉnh** giao diện, chọn vùng giá theo gu của bạn và hoàn tất!
+
+---
+*💡 Dữ liệu được cập nhật liên tục từ nguồn công khai — chính xác, nhanh chóng và hoàn toàn miễn phí.*
