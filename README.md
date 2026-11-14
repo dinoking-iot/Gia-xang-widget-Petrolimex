@@ -17,7 +17,7 @@ Bạn có bao giờ muốn biết giá xăng mới nhất mà không cần mở 
 ---
 
 ### 📱 Hướng dẫn sử dụng
-1. **Tải và cài đặt** file APK từ mục [Releases](https://github.com).
+1. **Tải và cài đặt** file APK từ mục [Releases](https://github.com/dinoking-iot/Gia-xang-widget-Petrolimex/releases/tag/Giaxang).
 2. **Nhấn giữ** vào vùng trống trên màn hình chính điện thoại Android.
 3. Chọn mục **Widget** (Tiện ích) $\rightarrow$ Tìm và thêm **"Giá Xăng Petrolimex"**.
 4. **Tùy chỉnh** giao diện, chọn vùng giá theo gu của bạn và hoàn tất!
