@@ -3,7 +3,7 @@
 
 Bạn có bao giờ muốn biết giá xăng mới nhất mà không cần mở trình duyệt hay lướt tìm bài đăng? Đây chính là giải pháp gọn nhẹ dành cho bạn.
 
-[⬇️ TẢI NGAY BẢN CÀI ĐẶT (APK)](https://github.com)
+[⬇️ TẢI NGAY BẢN CÀI ĐẶT (APK)](https://github.com/dinoking-iot/Gia-xang-widget-Petrolimex/releases/tag/Giaxang)
 
 ---
 
